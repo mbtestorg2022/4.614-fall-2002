@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 resourcetype: Image
 title: 2026thumbnail.jpg
 uid: 389c2a39-9a83-944a-c19a-3d5e02b83356

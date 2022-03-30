@@ -13,6 +13,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 resourcetype: Image
 title: 1059thumbnail.jpg
 uid: 8b431854-467f-d8fd-a292-7a7b29ac0a3d

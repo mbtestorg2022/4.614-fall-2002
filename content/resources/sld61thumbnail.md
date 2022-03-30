@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 resourcetype: Image
 title: SLD61thumbnail.gif
 uid: 3d4e0616-f08c-798c-ab37-1e255228f8ef

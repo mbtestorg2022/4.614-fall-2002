@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 resourcetype: Image
 title: 3070thumbnail.jpg
 uid: cc1649f3-b904-2577-a80b-14b37e97a0c8

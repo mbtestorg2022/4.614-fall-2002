@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 resourcetype: Image
 title: 5060thumbnail.jpg
 uid: 8f15c5ec-7a2b-6dd7-8982-bca8c25e30b9

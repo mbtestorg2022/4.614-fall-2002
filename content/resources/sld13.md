@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Al-Azhar Mosque: The original mihrab of the mosque discovered in 1930''s.'
   credit: ''
   image-alt: Al-Azhar Mosque mihrab
+parent_uid: 4882bd29-5828-5b3f-3de4-f7dfa398509d
 resourcetype: Image
 title: SLD13.jpg
 uid: 0e504641-9338-f336-4273-9d59e0ed07af

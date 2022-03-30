@@ -10,6 +10,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 resourcetype: Image
 title: 2027thumbnail.jpg
 uid: 8ff8f58a-c166-437c-ac5c-c78cb257eaf0

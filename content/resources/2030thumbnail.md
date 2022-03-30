@@ -14,6 +14,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 resourcetype: Image
 title: 2030thumbnail.jpg
 uid: 8fb6c088-3254-3c68-6e57-085349e0a260

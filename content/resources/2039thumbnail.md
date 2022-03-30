@@ -10,6 +10,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 resourcetype: Image
 title: 2039thumbnail.jpg
 uid: 6ff43138-7ea2-c1e0-c55b-840e1e5f74b1

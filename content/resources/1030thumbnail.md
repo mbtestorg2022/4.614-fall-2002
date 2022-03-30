@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 resourcetype: Image
 title: 1030thumbnail.jpg
 uid: 71e31f1e-17f4-d797-fe0a-6e337973ed2b

@@ -11,6 +11,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 resourcetype: Image
 title: 2038thumbnail.jpg
 uid: 0f9314e5-a3c2-64ec-4a60-ffa7237ed4c6

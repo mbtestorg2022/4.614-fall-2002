@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 resourcetype: Image
 title: 2044thumbnail.jpg
 uid: 8b57012a-70d5-442c-6d4f-f1847b3b27db

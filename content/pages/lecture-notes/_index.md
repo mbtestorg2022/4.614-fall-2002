@@ -21,7 +21,7 @@ Click on any of the images to see a more in-depth set of notes on the topic.
 {{< tdopen >}}
 
 
-**[![Palmyra.](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/1003thumbnail.jpg)]({{< baseurl >}}/pages/lecture-notes/birth-islam)**
+**[{{< resource "68a862a2-f574-dd76-31fb-83090b83434d" >}}]({{< baseurl >}}/pages/lecture-notes/birth-islam)**
 
 
 {{< tdclose >}}
@@ -36,7 +36,7 @@ Click on any of the images to see a more in-depth set of notes on the topic.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![Minaret.](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/3007thumbnail.jpg)]({{< baseurl >}}/pages/lecture-notes/vocab-islam)
+[{{< resource "7a2e2dc1-403c-28bc-7f86-af2d40cc7fa2" >}}]({{< baseurl >}}/pages/lecture-notes/vocab-islam)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -49,7 +49,7 @@ Click on any of the images to see a more in-depth set of notes on the topic.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![The Mosque of Amru in Fustat.](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/3010thumbnail.jpg)]({{< baseurl >}}/pages/lecture-notes/early-mosques)
+[{{< resource "f3958268-75e7-4acb-4a62-2893c7e5d07b" >}}]({{< baseurl >}}/pages/lecture-notes/early-mosques)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -78,7 +78,7 @@ Click on any of the images to see a more in-depth set of notes on the topic.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**[![Dome of the Rock (Qubbat al-Sakhra).](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/1005thumbnail.jpg)]({{< baseurl >}}/pages/lecture-notes/umayyad)**
+**[{{< resource "f2a5723e-f6bc-fa56-8e82-554ca366ab89" >}}]({{< baseurl >}}/pages/lecture-notes/umayyad)**
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -91,7 +91,7 @@ Click on any of the images to see a more in-depth set of notes on the topic.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![The Malwiyya.](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/1015thumbnail.jpg)]({{< baseurl >}}/pages/lecture-notes/abbasids)
+[{{< resource "fd77dffd-ed78-1c5d-e24c-bc0ea997c1ef" >}}]({{< baseurl >}}/pages/lecture-notes/abbasids)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -104,7 +104,7 @@ Click on any of the images to see a more in-depth set of notes on the topic.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![The Masjid (or Musalla) of Bab Mardum, Toledo.](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/1034thumbnail.jpg)]({{< baseurl >}}/pages/lecture-notes/ifriqiya)
+[{{< resource "33fd9a0b-56d8-21f3-5352-2d161a8b6bae" >}}]({{< baseurl >}}/pages/lecture-notes/ifriqiya)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -117,7 +117,7 @@ Click on any of the images to see a more in-depth set of notes on the topic.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![Al-Azhar Mosque.](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/1036thumbnail.jpg)]({{< baseurl >}}/pages/lecture-notes/fatimid)
+[{{< resource "cc2d5917-338a-1b4a-9470-53538d4a1ab6" >}}]({{< baseurl >}}/pages/lecture-notes/fatimid)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -130,7 +130,7 @@ Click on any of the images to see a more in-depth set of notes on the topic.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![The Samanid Mausoleum in Bukhara, Uzbekistan.](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/1054thumbnail.jpg)]({{< baseurl >}}/pages/lecture-notes/iran-mosques)
+[{{< resource "1cea54e9-44cc-53b6-7a85-4298ff32c396" >}}]({{< baseurl >}}/pages/lecture-notes/iran-mosques)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -159,7 +159,7 @@ Click on any of the images to see a more in-depth set of notes on the topic.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**[![The Masjid-i Jomeh at Isfahan.](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/1059thumbnail.jpg)]({{< baseurl >}}/pages/lecture-notes/seljuqs)**
+**[{{< resource "8b431854-467f-d8fd-a292-7a7b29ac0a3d" >}}]({{< baseurl >}}/pages/lecture-notes/seljuqs)**
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -172,7 +172,7 @@ Click on any of the images to see a more in-depth set of notes on the topic.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**[![The Madrasa al-Firdaws in Aleppo.](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/1074thumbnail.jpg)]({{< baseurl >}}/pages/lecture-notes/anatolia)**
+**[{{< resource "6a63a45b-d082-e121-85e6-30aff4a98197" >}}]({{< baseurl >}}/pages/lecture-notes/anatolia)**
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -185,7 +185,7 @@ Click on any of the images to see a more in-depth set of notes on the topic.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**[![The Complex of Sultan Qalawun in Cairo.](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/1077thumbnail.jpg)]({{< baseurl >}}/pages/lecture-notes/ayyubids)**
+**[{{< resource "fa1f51b3-b918-4b34-2299-00ff3d1e79f5" >}}]({{< baseurl >}}/pages/lecture-notes/ayyubids)**
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -198,7 +198,7 @@ Click on any of the images to see a more in-depth set of notes on the topic.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**[![The Mausoleum of Sultan Oljeïtu at Sultaniyya.](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/1085thumbnail.jpg)]({{< baseurl >}}/pages/lecture-notes/ilkhanids)**
+**[{{< resource "5fd99492-1494-3478-5ba5-fb1170a4ff33" >}}]({{< baseurl >}}/pages/lecture-notes/ilkhanids)**
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -211,7 +211,7 @@ Click on any of the images to see a more in-depth set of notes on the topic.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**[![The Tomb of Ghiyath al-Din Tughluq at Delhi-Tughluqabad.](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/1097thumbnail.jpg)]({{< baseurl >}}/pages/lecture-notes/muslim-india)**
+**[{{< resource "a7a88adb-293b-fa67-b261-956160c8a078" >}}]({{< baseurl >}}/pages/lecture-notes/muslim-india)**
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -224,7 +224,7 @@ Click on any of the images to see a more in-depth set of notes on the topic.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**[![The Mosque of Sultan Hasan.](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/1101thumbnail.jpg)]({{< baseurl >}}/pages/lecture-notes/mamluck)**
+**[{{< resource "4bb88388-9882-44fb-df24-166f06bb65b0" >}}]({{< baseurl >}}/pages/lecture-notes/mamluck)**
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -237,7 +237,7 @@ Click on any of the images to see a more in-depth set of notes on the topic.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**[![The Gur-i-Amir Mausoleum in Samarqand.](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/1116thumbnail.jpg)]({{< baseurl >}}/pages/lecture-notes/timurids)**
+**[{{< resource "f280486e-9026-5f78-8a38-458643d620c3" >}}]({{< baseurl >}}/pages/lecture-notes/timurids)**
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -269,7 +269,7 @@ Click on any of the images to see a more in-depth set of notes on the topic.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**[![Yesil Cami (Green Mosque) at Iznik.](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/1125thumbnail.jpg)]({{< baseurl >}}/pages/lecture-notes/anatolia-turks)**
+**[{{< resource "a4786bac-6607-2cee-cfde-774957d7fcb0" >}}]({{< baseurl >}}/pages/lecture-notes/anatolia-turks)**
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -282,7 +282,7 @@ Click on any of the images to see a more in-depth set of notes on the topic.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**[![The Church of Hagia Sofia (Ayasofia).](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/1133thumbnail.jpg)]({{< baseurl >}}/pages/lecture-notes/sinan)**
+**[{{< resource "f0409734-7711-746d-c0d9-d156d1915be4" >}}]({{< baseurl >}}/pages/lecture-notes/sinan)**
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -295,7 +295,7 @@ Click on any of the images to see a more in-depth set of notes on the topic.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**[![The Masjid-i-Shah.](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/2004thumbnail.jpg)]({{< baseurl >}}/pages/lecture-notes/safavids)**
+**[{{< resource "cedb0fd7-7dd1-65d3-d335-8fa04335936d" >}}]({{< baseurl >}}/pages/lecture-notes/safavids)**
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -308,7 +308,7 @@ Click on any of the images to see a more in-depth set of notes on the topic.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**[![The Tomb of Humayun in Delhi.](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/2005thumbnail.jpg)]({{< baseurl >}}/pages/lecture-notes/mughal)**
+**[{{< resource "040c0a18-3ee1-e58d-aa67-75f4e53c942a" >}}]({{< baseurl >}}/pages/lecture-notes/mughal)**
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -340,7 +340,7 @@ Click on any of the images to see a more in-depth set of notes on the topic.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**[![The Nuruosmaniye Mosque, Istanbul.](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/2024thumbnail.jpg)]({{< baseurl >}}/pages/lecture-notes/baroque)**
+**[{{< resource "63c49297-7267-f871-52e7-7f7202368d84" >}}]({{< baseurl >}}/pages/lecture-notes/baroque)**
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -353,7 +353,7 @@ Click on any of the images to see a more in-depth set of notes on the topic.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**[![The Corniche Mosque, Jedda, Saudi Arabia.](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/2042thumbnail.jpg)]({{< baseurl >}}/pages/lecture-notes/historicism)**
+**[{{< resource "c230d126-6792-bfe2-6549-ce1ffadadf5c" >}}]({{< baseurl >}}/pages/lecture-notes/historicism)**
 {{< tdclose >}}
 {{< tdopen >}}
 

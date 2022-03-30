@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 resourcetype: Image
 title: 4035thumbnail.jpg
 uid: 5062c2a5-1edd-c854-a98a-1e8c0b5bb7cc

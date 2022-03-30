@@ -10,6 +10,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 resourcetype: Image
 title: 2016thumbnail.jpg
 uid: 32e99498-0e73-64f8-1b61-d44337b9de7f

@@ -7,6 +7,7 @@ image_metadata:
   caption: 'The Mashhad al-Juyyushi: View of the mashhad after the 1990''s restoration.'
   credit: ''
   image-alt: iew of the mashhad after the 1990's restoration
+parent_uid: 4882bd29-5828-5b3f-3de4-f7dfa398509d
 resourcetype: Image
 title: SLD6.jpg
 uid: 3238b00a-0f2f-da52-ccf7-de97562659d3

@@ -9,6 +9,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 resourcetype: Image
 title: 1132thumbnail.jpg
 uid: eba72719-3955-5f9e-ed8c-35d5a2b47cec

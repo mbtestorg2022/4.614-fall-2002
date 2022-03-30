@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 resourcetype: Image
 title: SLD40thumbnail.gif
 uid: 25bf46f1-a0a4-02c1-b2c6-835ae8f97031

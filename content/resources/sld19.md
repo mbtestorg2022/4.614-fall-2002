@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 resourcetype: Image
 title: SLD19.jpg
 uid: 353ac0ee-3d35-c74b-0fcc-ad6316e5fdf3

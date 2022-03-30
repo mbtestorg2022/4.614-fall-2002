@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 resourcetype: Image
 title: 2070thumbnail.jpg
 uid: bfb5c638-6d10-f4d8-ffb3-c3637e0aff9f
